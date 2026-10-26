@@ -1,30 +1,48 @@
-# Lawn Defense
+<p align="center">
+  <img src="assets/hero.jpg" alt="Lawn Defense — title screen" width="100%" />
+</p>
 
-A **Plants vs. Zombies-inspired lawn-defense game** built and published with ChatGPT Sites.
+<h1 align="center">Lawn Defense</h1>
 
-[**Play Lawn Defense**](https://lawn-defense-thomas.benclawbot.chatgpt.site/)
+<p align="center">
+  <strong>A Plants vs. Zombies-inspired lawn-defense game you can play in your browser.</strong>
+</p>
 
-## About
-
-Lawn Defense is a browser-playable, plants-versus-zombies-inspired game. The live version is hosted on ChatGPT Sites.
-
-## Play
-
-Open the hosted game:
-
-**https://lawn-defense-thomas.benclawbot.chatgpt.site/**
-
-## Source code
-
-The original game was created in ChatGPT Sites. **Its source has not yet been exported to this GitHub repository.** This repository currently contains the project README only.
-
-The live ChatGPT Sites deployment is managed separately from GitHub, so changes committed here do not automatically update the hosted game.
-
-## Links
-
-- [Play the game](https://lawn-defense-thomas.benclawbot.chatgpt.site/)
-- [GitHub repository](https://github.com/benclawbot/Plant-vs-zombies)
+<p align="center">
+  <a href="https://lawn-defense-thomas.benclawbot.chatgpt.site/"><strong>▶ Play Lawn Defense</strong></a>
+</p>
 
 ---
 
-*Fan-made, Plants vs. Zombies-inspired project. Not affiliated with or endorsed by PopCap Games or Electronic Arts.*
+## The game
+
+Defend your lawn from waves of zombies in a lane-based strategy game inspired by *Plants vs. Zombies*. Build a team of plants, manage your sun, and place attackers and defenses to keep the zombies away from your house.
+
+- **Choose your team** — Pick six seed packets before a level, each with its own sun cost.
+- **Plan your defense** — Place Peashooters, Sunflowers, Wall-nuts, Potato Mines, and more across the lawn.
+- **Manage resources** — Collect sun to afford your next plant while zombies approach.
+- **Survive the waves** — Adapt your lineup as different zombies attack your lanes.
+
+## Screenshots
+
+### Choose your plants
+
+![Choose your plants — seed selection screen](assets/plant-selection.jpg)
+
+### Defend the lawn
+
+![Lawn Defense — gameplay](assets/gameplay.jpg)
+
+## Play online
+
+**[Launch Lawn Defense →](https://lawn-defense-thomas.benclawbot.chatgpt.site/)**
+
+The playable version is hosted on **ChatGPT Sites** and opens directly in a web browser.
+
+## Repository status
+
+This repository contains the project's screenshots and documentation. **The original game source code has not yet been exported from ChatGPT Sites.** The live deployment is hosted separately, so changes to this repository do not automatically update the game.
+
+---
+
+<sub>Fan-made project inspired by *Plants vs. Zombies*. Not affiliated with, endorsed by, or sponsored by PopCap Games or Electronic Arts. Original game names and characters belong to their respective owners.</sub>
