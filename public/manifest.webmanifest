@@ -1,0 +1,18 @@
+{
+  "id": "/",
+  "name": "Plants vs. Zombies — Lawn Defense",
+  "short_name": "Lawn Defense",
+  "description": "Defend your lawn in a full campaign, puzzles, mini-games and Survival.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#efbd4f",
+  "theme_color": "#2c3919",
+  "icons": [
+    {"src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

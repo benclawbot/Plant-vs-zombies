@@ -1,0 +1,1299 @@
+{
+  "version": 1,
+  "note": "Generated artwork. Rectangles are inspected approximate pixel bounds, trimmed to alpha by the game loader. Static base poses; animation is procedural. No pixel-perfect original claim.",
+  "plants": {
+    "file": "plants.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "entries": [
+      {
+        "id": 0,
+        "name": "Peashooter",
+        "rect": [
+          0,
+          0,
+          185,
+          199
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Sunflower",
+        "rect": [
+          185,
+          0,
+          170,
+          199
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Cherry Bomb",
+        "rect": [
+          355,
+          0,
+          190,
+          199
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Wall-nut",
+        "rect": [
+          545,
+          0,
+          165,
+          199
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Potato Mine",
+        "rect": [
+          710,
+          0,
+          180,
+          199
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Snow Pea",
+        "rect": [
+          890,
+          0,
+          180,
+          199
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Chomper",
+        "rect": [
+          1070,
+          0,
+          184,
+          199
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Repeater",
+        "rect": [
+          0,
+          199,
+          190,
+          176
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Puff-shroom",
+        "rect": [
+          190,
+          199,
+          128,
+          176
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Sun-shroom",
+        "rect": [
+          318,
+          199,
+          144,
+          176
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Fume-shroom",
+        "rect": [
+          462,
+          199,
+          175,
+          176
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Grave Buster",
+        "rect": [
+          637,
+          199,
+          139,
+          176
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Hypno-shroom",
+        "rect": [
+          776,
+          199,
+          161,
+          176
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Scaredy-shroom",
+        "rect": [
+          937,
+          199,
+          143,
+          176
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Ice-shroom",
+        "rect": [
+          1080,
+          199,
+          174,
+          176
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Doom-shroom",
+        "rect": [
+          0,
+          375,
+          184,
+          174
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Lily Pad",
+        "rect": [
+          184,
+          375,
+          186,
+          174
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Squash",
+        "rect": [
+          370,
+          375,
+          165,
+          174
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Threepeater",
+        "rect": [
+          535,
+          375,
+          175,
+          174
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Tangle Kelp",
+        "rect": [
+          710,
+          375,
+          177,
+          174
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Jalapeno",
+        "rect": [
+          887,
+          375,
+          162,
+          174
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Spikeweed",
+        "rect": [
+          1049,
+          375,
+          205,
+          174
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Torchwood",
+        "rect": [
+          0,
+          549,
+          181,
+          187
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Tall-nut",
+        "rect": [
+          181,
+          549,
+          169,
+          187
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Sea-shroom",
+        "rect": [
+          350,
+          549,
+          158,
+          187
+        ]
+      },
+      {
+        "id": 25,
+        "name": "Plantern",
+        "rect": [
+          508,
+          549,
+          189,
+          187
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Cactus",
+        "rect": [
+          697,
+          549,
+          175,
+          187
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Blover",
+        "rect": [
+          872,
+          549,
+          168,
+          187
+        ]
+      },
+      {
+        "id": 28,
+        "name": "Split Pea",
+        "rect": [
+          1040,
+          549,
+          214,
+          187
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Starfruit",
+        "rect": [
+          0,
+          736,
+          181,
+          177
+        ]
+      },
+      {
+        "id": 30,
+        "name": "Pumpkin",
+        "rect": [
+          181,
+          736,
+          189,
+          177
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Magnet-shroom",
+        "rect": [
+          370,
+          736,
+          155,
+          177
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Cabbage-pult",
+        "rect": [
+          525,
+          736,
+          182,
+          177
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Flower Pot",
+        "rect": [
+          707,
+          736,
+          161,
+          177
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Kernel-pult",
+        "rect": [
+          868,
+          736,
+          192,
+          177
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Coffee Bean",
+        "rect": [
+          1060,
+          736,
+          194,
+          177
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Garlic",
+        "rect": [
+          0,
+          913,
+          176,
+          158
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Umbrella Leaf",
+        "rect": [
+          176,
+          913,
+          167,
+          158
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Marigold",
+        "rect": [
+          343,
+          913,
+          137,
+          158
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Melon-pult",
+        "rect": [
+          480,
+          913,
+          229,
+          158
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Gatling Pea",
+        "rect": [
+          709,
+          913,
+          175,
+          158
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Twin Sunflower",
+        "rect": [
+          884,
+          913,
+          171,
+          158
+        ]
+      },
+      {
+        "id": 42,
+        "name": "Gloom-shroom",
+        "rect": [
+          1055,
+          913,
+          199,
+          158
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Cattail",
+        "rect": [
+          0,
+          1071,
+          177,
+          183
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Winter Melon",
+        "rect": [
+          177,
+          1071,
+          201,
+          183
+        ]
+      },
+      {
+        "id": 45,
+        "name": "Gold Magnet",
+        "rect": [
+          378,
+          1071,
+          181,
+          183
+        ]
+      },
+      {
+        "id": 46,
+        "name": "Spikerock",
+        "rect": [
+          559,
+          1071,
+          188,
+          183
+        ]
+      },
+      {
+        "id": 47,
+        "name": "Cob Cannon",
+        "rect": [
+          747,
+          1071,
+          325,
+          183
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Imitater",
+        "rect": [
+          1072,
+          1071,
+          182,
+          183
+        ]
+      }
+    ]
+  },
+  "zombies": {
+    "file": "zombies.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "entries": [
+      {
+        "id": 0,
+        "name": "Normal Zombie",
+        "rect": [
+          0,
+          0,
+          201,
+          261
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Flag Zombie",
+        "rect": [
+          201,
+          0,
+          207,
+          261
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Conehead Zombie",
+        "rect": [
+          408,
+          0,
+          206,
+          261
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Pole Vaulting Zombie",
+        "rect": [
+          614,
+          0,
+          224,
+          261
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Buckethead Zombie",
+        "rect": [
+          838,
+          0,
+          209,
+          261
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Newspaper Zombie",
+        "rect": [
+          1047,
+          0,
+          207,
+          261
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Screen Door Zombie",
+        "rect": [
+          0,
+          261,
+          201,
+          265
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Football Zombie",
+        "rect": [
+          201,
+          261,
+          207,
+          265
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Dancing Zombie",
+        "rect": [
+          408,
+          261,
+          206,
+          265
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Backup Dancer",
+        "rect": [
+          614,
+          261,
+          224,
+          265
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Ducky Tube Zombie",
+        "rect": [
+          838,
+          261,
+          209,
+          265
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Snorkel Zombie",
+        "rect": [
+          1047,
+          261,
+          207,
+          265
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Zomboni",
+        "rect": [
+          0,
+          526,
+          201,
+          257
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Zombie Bobsled Team",
+        "rect": [
+          201,
+          526,
+          207,
+          257
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Dolphin Rider Zombie",
+        "rect": [
+          408,
+          526,
+          206,
+          257
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Jack-in-the-Box Zombie",
+        "rect": [
+          614,
+          526,
+          224,
+          257
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Balloon Zombie",
+        "rect": [
+          838,
+          526,
+          209,
+          257
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Digger Zombie",
+        "rect": [
+          1047,
+          526,
+          207,
+          257
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Pogo Zombie",
+        "rect": [
+          0,
+          783,
+          201,
+          245
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Zombie Yeti",
+        "rect": [
+          201,
+          783,
+          207,
+          245
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Bungee Zombie",
+        "rect": [
+          408,
+          783,
+          206,
+          245
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Ladder Zombie",
+        "rect": [
+          614,
+          783,
+          224,
+          245
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Catapult Zombie",
+        "rect": [
+          838,
+          783,
+          209,
+          245
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Gargantuar",
+        "rect": [
+          1047,
+          783,
+          207,
+          245
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Imp",
+        "rect": [
+          0,
+          1028,
+          201,
+          226
+        ]
+      },
+      {
+        "id": 25,
+        "name": "Dr. Zomboss in giant Zombot",
+        "rect": [
+          201,
+          1028,
+          207,
+          226
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Lawnmower",
+        "rect": [
+          408,
+          1028,
+          206,
+          226
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Pool Cleaner",
+        "rect": [
+          614,
+          1028,
+          224,
+          226
+        ]
+      },
+      {
+        "id": 28,
+        "name": "Roof Cleaner",
+        "rect": [
+          838,
+          1028,
+          209,
+          226
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Stinky the Snail",
+        "rect": [
+          1047,
+          1028,
+          207,
+          226
+        ]
+      }
+    ]
+  },
+  "environments": {
+    "file": "environments.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "entries": [
+      {
+        "id": 0,
+        "name": "Day",
+        "rect": [
+          0,
+          0,
+          768,
+          341.3333333333333
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Night",
+        "rect": [
+          768,
+          0,
+          768,
+          341.3333333333333
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Pool",
+        "rect": [
+          0,
+          341.3333333333333,
+          768,
+          341.3333333333333
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Fog",
+        "rect": [
+          768,
+          341.3333333333333,
+          768,
+          341.3333333333333
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Roof",
+        "rect": [
+          0,
+          682.6666666666666,
+          768,
+          341.3333333333333
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Menu",
+        "rect": [
+          768,
+          682.6666666666666,
+          768,
+          341.3333333333333
+        ]
+      }
+    ]
+  },
+  "interface": {
+    "file": "interface.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "entries": [
+      {
+        "id": 0,
+        "name": "glowing golden sun pickup with rays",
+        "rect": [
+          0,
+          0,
+          270,
+          286
+        ]
+      },
+      {
+        "id": 1,
+        "name": "silver coin",
+        "rect": [
+          275,
+          0,
+          234,
+          286
+        ]
+      },
+      {
+        "id": 2,
+        "name": "gold coin",
+        "rect": [
+          514,
+          0,
+          244,
+          286
+        ]
+      },
+      {
+        "id": 3,
+        "name": "blue diamond",
+        "rect": [
+          763,
+          0,
+          237,
+          286
+        ]
+      },
+      {
+        "id": 4,
+        "name": "green pea projectile",
+        "rect": [
+          1005,
+          0,
+          255,
+          286
+        ]
+      },
+      {
+        "id": 5,
+        "name": "icy blue pea projectile",
+        "rect": [
+          1265,
+          0,
+          271,
+          286
+        ]
+      },
+      {
+        "id": 6,
+        "name": "flaming pea projectile",
+        "rect": [
+          0,
+          286,
+          265,
+          230
+        ]
+      },
+      {
+        "id": 7,
+        "name": "five-pointed yellow star projectile",
+        "rect": [
+          267,
+          286,
+          243,
+          230
+        ]
+      },
+      {
+        "id": 8,
+        "name": "cabbage projectile",
+        "rect": [
+          514,
+          286,
+          244,
+          230
+        ]
+      },
+      {
+        "id": 9,
+        "name": "corn kernel projectile",
+        "rect": [
+          763,
+          286,
+          237,
+          230
+        ]
+      },
+      {
+        "id": 10,
+        "name": "butter projectile",
+        "rect": [
+          1005,
+          286,
+          260,
+          230
+        ]
+      },
+      {
+        "id": 11,
+        "name": "watermelon projectile",
+        "rect": [
+          1270,
+          286,
+          266,
+          230
+        ]
+      },
+      {
+        "id": 12,
+        "name": "wood-handled shovel",
+        "rect": [
+          0,
+          516,
+          272,
+          232
+        ]
+      },
+      {
+        "id": 13,
+        "name": "empty parchment seed packet frame with green header and blank cost footer",
+        "rect": [
+          275,
+          516,
+          168,
+          232
+        ]
+      },
+      {
+        "id": 14,
+        "name": "wide wood-and-parchment sun-counter panel without lettering",
+        "rect": [
+          448,
+          516,
+          356,
+          232
+        ]
+      },
+      {
+        "id": 15,
+        "name": "long horizontal wooden seed-bank tray without lettering",
+        "rect": [
+          808,
+          516,
+          463,
+          232
+        ]
+      },
+      {
+        "id": 16,
+        "name": "stone menu button without lettering",
+        "rect": [
+          1275,
+          516,
+          261,
+          232
+        ]
+      },
+      {
+        "id": 17,
+        "name": "green leaf-shaped play button with white triangle",
+        "rect": [
+          0,
+          749,
+          255,
+          275
+        ]
+      },
+      {
+        "id": 18,
+        "name": "pause button carved in wood with two cream bars",
+        "rect": [
+          259,
+          749,
+          195,
+          275
+        ]
+      },
+      {
+        "id": 19,
+        "name": "sound-on icon garden speaker",
+        "rect": [
+          457,
+          749,
+          188,
+          275
+        ]
+      },
+      {
+        "id": 20,
+        "name": "sound-off icon garden speaker crossed out",
+        "rect": [
+          647,
+          749,
+          179,
+          275
+        ]
+      },
+      {
+        "id": 21,
+        "name": "red brain flag on pole",
+        "rect": [
+          828,
+          749,
+          208,
+          275
+        ]
+      },
+      {
+        "id": 22,
+        "name": "horizontal empty wave-progress bar earthy framed",
+        "rect": [
+          1038,
+          749,
+          300,
+          275
+        ]
+      },
+      {
+        "id": 23,
+        "name": "small gold trophy sunflower",
+        "rect": [
+          1340,
+          749,
+          196,
+          275
+        ]
+      }
+    ]
+  },
+  "props": {
+    "file": "props.png",
+    "size": [
+      1299,
+      1211
+    ],
+    "entries": [
+      {
+        "id": 0,
+        "name": "Mystery Vase",
+        "rect": [
+          0,
+          0,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Green Vase",
+        "rect": [
+          324.75,
+          0,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Gravestone",
+        "rect": [
+          649.5,
+          0,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Crater",
+        "rect": [
+          974.25,
+          0,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Brain",
+        "rect": [
+          0,
+          302.75,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Zombie Fish",
+        "rect": [
+          324.75,
+          302.75,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Fish Food",
+        "rect": [
+          649.5,
+          302.75,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Watering Can",
+        "rect": [
+          974.25,
+          302.75,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Fertilizer",
+        "rect": [
+          0,
+          605.5,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Phonograph",
+        "rect": [
+          324.75,
+          605.5,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Bug Spray",
+        "rect": [
+          649.5,
+          605.5,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Crazy Dave",
+        "rect": [
+          974.25,
+          605.5,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Tree of Wisdom",
+        "rect": [
+          0,
+          908.25,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Ice Trail",
+        "rect": [
+          324.75,
+          908.25,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Damaged Pumpkin",
+        "rect": [
+          649.5,
+          908.25,
+          324.75,
+          302.75
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Damaged Wall-nut",
+        "rect": [
+          974.25,
+          908.25,
+          324.75,
+          302.75
+        ]
+      }
+    ]
+  }
+}
